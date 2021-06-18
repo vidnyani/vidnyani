@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vidnyani
-- 👀 I’m interested in computer programming 
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding and solving tasks 
+- 🌱 I’m currently learning Data structures and Algorithm
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me instagram id-vidnyani_umathe
 
 <!---
