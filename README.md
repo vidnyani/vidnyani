@@ -2,7 +2,8 @@
 - 👀 I’m interested in coding and solving tasks 
 - 🌱 I’m currently learning Data structures and Algorithm
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me instagram id-vidnyani_umathe
+- 📫 How to reach me Twitter - @VidnyaniU
+
 
 <!---
 vidnyani/vidnyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
