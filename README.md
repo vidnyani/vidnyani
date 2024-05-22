@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @vidnyani
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me Twitter - @VidnyaniU
+
+
 
 
 <!---
